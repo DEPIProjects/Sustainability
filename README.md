@@ -1,5 +1,5 @@
-🌿 Global Product Sustainability Analysis Dashboard
-1. Overview
+🌿#Global Product Sustainability Analysis Dashboard
+#1. Overview
 The Global Product Sustainability Analysis Dashboard is a comprehensive, interactive data visualization tool built in Microsoft Excel. It provides a detailed, 360-degree view of product sustainability performance across various dimensions, including carbon footprint, water usage, waste production, and regional performance.
 
 This tool is designed for data analysts, product managers, and sustainability officers to quickly identify key trends, measure impact, and inform strategic decisions aimed at improving environmental responsibility and compliance.
